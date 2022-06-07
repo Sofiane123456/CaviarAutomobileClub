@@ -54,7 +54,7 @@ header li a {
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/domaine33.Jpg) no-repeat fixed 50% 50%;
+  background: url(media/domaine33.jpg) no-repeat fixed 50% 50%;
   background-size: cover;
   height: 900px;
 }
@@ -90,7 +90,7 @@ h3,h4,ul#Plan li {
 
 /* *************** PRESENTATION ********************** */
 #presentation {
-  background: url(media/domaine33.Jpg) no-repeat fixed 50% 50%;
+  background: url(media/domaine33.jpg) no-repeat fixed 50% 50%;
   background-size: cover;
   padding: 10px 0px 100px 0;
   color: antiquewhite;
@@ -149,7 +149,7 @@ h3,h4,ul#Plan li {
   background: url(media/restauration.jpg);
 }
 #chateau {
-  background: url(media/chateau.JPG);
+  background: url(media/chateau.jpg);
 }
 #Circuit {
   background: url(media/circuit.jpg);
